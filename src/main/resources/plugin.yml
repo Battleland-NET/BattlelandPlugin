@@ -1,0 +1,3 @@
+name: BattlelandPlugin
+main: net.battleland.battlelandPlugin.BattlelandPlugin
+version: 1.0-SNAPSHOT
